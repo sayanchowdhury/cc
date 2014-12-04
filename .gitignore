@@ -3,3 +3,7 @@
 *.pyo
 *.swp
 *~
+lib/
+Logs/
+template-defs.conf
+greed.conf
